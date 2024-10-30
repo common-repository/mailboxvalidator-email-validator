@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-10-29 08:46+0800\n"
+"PO-Revision-Date: 2020-10-09 09:16+0800\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"Language: zh_CN\n"
+
+msgid "MailboxValidator Email Validator"
+msgstr "MailboxValidator Email Validator"
+
+msgid ""
+"This plugin enables you to block invalid, disposable, free or role-based "
+"email from registering for your service. This plugin has been tested "
+"successfully to support WooCommerce, JetPack, Contact Form 7, Formidable "
+"forms and many more."
+msgstr ""
+"此插件让您可以阻止用户使用无效、一次性、免费或基于角色的电邮地址来注册您的服"
+"务。此插件已经过充分的测试，并支持WooCommerce、JetPack、Contact Form 7、"
+"Formidable forms以及更多插件。"
+
+msgid ""
+"Please sign up for a <a href=\"%1$s\">free MailboxValidator API key</a> to "
+"enable the email blocking."
+msgstr ""
+"请注册一个<a href=\"%1$s\">免费的MailboxValidator API密钥</a>来使用电邮地址阻"
+"拦功能。"
+
+msgid ""
+"This plugin enables you to block invalid, disposable, free or role-based "
+"email, from registering for your service. This plugin has been tested "
+"successfully to support WooCommerce, JetPack, Contact Form 7, Formidable "
+"forms and many more."
+msgstr ""
+"此插件让您可以阻止用户使用无效、一次性、免费或基于角色的电邮地址来注册您的服"
+"务。此插件已经过充分的测试，并支持WooCommerce、JetPack、Contact Form 7、"
+"Formidable forms以及更多插件。"
+
+msgid ""
+"The email blocking will be activated immediately once you have enabled the "
+"blocking options. No additional coding is required. Please visit <a href=\"%s"
+"\">here</a> to learn more about how the blocking works for each supported "
+"plugin."
+msgstr ""
+"一旦您启用阻挡选项，电邮地址阻拦选项将立即启动。您无需编译任何额外代码。欲知"
+"此阻拦选项如何在其他插件运作，您可以浏览<a href=\"%s\">这里</a>。"
+
+msgid "Plan Information"
+msgstr "方案资讯"
+
+msgid "Plan Name"
+msgstr "方案名称"
+
+msgid "Credits Available"
+msgstr "余额"
+
+msgid "Next Renewal Date"
+msgstr "下一更新日期"
+
+msgid "Main Settings"
+msgstr "主设定"
+
+msgid "MailboxValidator API Key"
+msgstr "MailboxValidator API密钥"
+
+msgid "Debug Mode"
+msgstr "调试模式"
+
+msgid "Block Invalid Email"
+msgstr "阻止无效电邮地址"
+
+msgid "Block Disposable Email"
+msgstr "阻止一次性电邮地址"
+
+msgid "Block Free Email"
+msgstr "阻止免费电邮地址"
+
+msgid "Block Role-Based Email"
+msgstr "阻止基于角色的电邮地址"
+
+msgid "Block Custom Email Domains"
+msgstr "阻止定制电邮地址域名"
+
+msgid "Please enter a MailboxValidator API key to enable the email blocking."
+msgstr "欲使用电邮地址拦截服务，请输入一个MailboxValidator API密钥。"
+
+msgid ""
+"You can sign up for a <a href=\"%s\" target=\"blank\">free MailboxValidator "
+"API key</a>."
+msgstr ""
+"您可以通过注册来获取一个<a href=\"%s\" target=\"blank\">免费的"
+"MailboxValidator API密钥</a>。"
+
+msgid ""
+"Log down the API transaction details for debugging purpose. Please disable "
+"this option for the live mode."
+msgstr "记录下API使用详情，以便日后除错用途。请勿在线上模式使用此选项。"
+
+msgid ""
+"Block invalid email from using your service. This option will perform a "
+"comprehensive validation, including SMTP server check."
+msgstr ""
+"阻止用户使用无效电邮地址注册您的服务。此选项将进行一个完整的检测，包括SMTP服"
+"务器检查。"
+
+msgid "Block disposable email from registering for your service."
+msgstr "阻止用户使用一次性电邮地址注册您的服务。"
+
+msgid "Block free email type from registering for your service."
+msgstr "阻止用户使用免费电邮地址注册您的服务。"
+
+msgid ""
+"Block role-based type email, such as admin@, support@, sales@ and so on, "
+"from registering for your service."
+msgstr ""
+"阻止用户使用基于角色的电邮地址册您的服务，例如admin@, support@, sales@等等。"
+
+msgid ""
+"Block email domains from registering for your service. Please enter one "
+"domain name in each row."
+msgstr "阻止用户使用电邮地址域名注册您的服务。请在每行输入一个您欲拦阻的域名。"
+
+msgid ""
+"Love our plugin? Please leave us a %2$s rating. A huge thanks in advance!"
+msgstr "喜欢我们的插件吗？请为我们留下%2$s评分。先在此多谢您！"
+
+msgid "Would you mind sharing with us the reason for deactivating the plugin"
+msgstr "您愿意与我们分享您停用此插件的原因"
+
+msgid "I no longer need the plugin"
+msgstr "我已经不需要此插件"
+
+msgid "I couldn't get the plugin to work"
+msgstr "我无法使用此插件"
+
+msgid "The plugin doesn't meet my requirements"
+msgstr "此插件没有达到我的要求"
+
+msgid "Other concerns"
+msgstr "其他原因"
+
+msgid "Submit & Deactivate"
+msgstr "呈交与停用"
+
+msgid "Skip & Deactivate"
+msgstr "跳过与停用"
+
+msgid "Please select your feedback."
+msgstr "请选择您的反馈。"
+
+msgid "This email address domain has been denied access."
+msgstr "此电邮地址域名已被拒绝访问。"
+
+msgid "Please enter a valid email address."
+msgstr "请输入一个有效的电邮地址。"
+
+msgid "Please enter a non-disposable email address."
+msgstr "请输入一个非一次性的电邮地址。"
+
+msgid "Please enter a non-free email address."
+msgstr "请输入一个非免费的电邮地址。"
+
+msgid "Please enter a non-role-based email address."
+msgstr "请输入一个非基于角色的电邮地址。"
+
+msgid "Quick Feedback"
+msgstr "快速反馈"
+
+msgid "On"
+msgstr "开启"
+
+msgid "Off"
+msgstr "关闭"

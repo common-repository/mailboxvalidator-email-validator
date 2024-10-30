@@ -1,0 +1,44 @@
+[
+    {
+        "name": "mailboxvalidator/mailboxvalidator-php",
+        "version": "2.0.0",
+        "version_normalized": "2.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/MailboxValidator/mailboxvalidator-php.git",
+            "reference": "d63b7303d83ea503c37c73230d7d6f4f694ee9d9"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/MailboxValidator/mailboxvalidator-php/zipball/d63b7303d83ea503c37c73230d7d6f4f694ee9d9",
+            "reference": "d63b7303d83ea503c37c73230d7d6f4f694ee9d9",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3"
+        },
+        "time": "2020-10-26T01:34:08+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "MailboxValidator\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "LGPL-3.0"
+        ],
+        "authors": [
+            {
+                "name": "MailboxValidator",
+                "email": "support@mailboxvalidator.com"
+            }
+        ],
+        "description": "MailboxValidator PHP module enable users to block disposal email, detect free email and validate if an email is valid.",
+        "keywords": [
+            "email validation",
+            "mailboxvalidator"
+        ]
+    }
+]
